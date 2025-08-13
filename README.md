@@ -1,0 +1,1 @@
+commands : nodemon index.ejs
